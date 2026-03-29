@@ -1,5 +1,5 @@
 # Bitácora Taller 3
-#taller #udp #bitacora #yop
+
 ### Lunes 9 de Marzo
 (primer día)
 ---
