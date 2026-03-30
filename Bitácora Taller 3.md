@@ -1,7 +1,7 @@
 # Bitácora Taller 3
 
 ### Lunes 9 de Marzo
-(primer día)
+--(primer día)
 
 ---
 ### Jueves 12 de Marzo
@@ -16,31 +16,48 @@ Después nos hicieron una breve presentación acerca de el estudio de usuarios, 
 
 Para la segunda parte de la clase, nos juntaron en duplas para entrevistarnos entre nosotros para intentar descrubrir el juguete de la otra persona.
 mi juguete era un auto a control remoto y el de mi compañera Camila, era una casa de muñecas, con forma de frutilla.
-**[foto respuestas entrevista]**
+
+<img src="registrofotografico/respentrevista.jpg" width="400">
 
 Luego a partir de las respuestas que tuve, debía construir una maqueta de lo que yo me imaginaba que era su juguete (la casa de muñecas), lo que resultó en una frutilla masomenos,, pero por lo menos se acercaba a lo que era la verdadera casita.
-**[fotos maqueta frutilla]**
+
+<img src="registrofotografico/frutillafea.jpg" width="400"> <img src="registrofotografico/frutillafea2.jpg" width="400">
 
 También nos presentaron "drawdio", adelantándonos un poco acerca de cómo proseguiría nuestro proyecto.
 
 ---
 ### Jueves 19 de Marzo
 Nos encargaron traer materiales para un segundo prototipo del juguete, al final no los usamos pero tuvimos el tiempo para poder bocetear mejoras para el juguete. También se nos sumó Fernando al grupo por lo que tuvimos la oportunidad de compartir aún más ideas gracias a que nos habló de su juguete de la infancia.
+
 **[foto bocetos juguete]**
+
 Ya finalizando la clase nos encargaron los materiales para la clase siguente, sumado a los componentes necesarios para la construcción del drawdio, mediante una protoboard.
 
 ---
 ### Lunes 23 de Marzo
 Desastroso, no logramos coordinarnos como curso durante el finde para comprar los materiales por lo que atrasamos toda la clase, por otro lado, pude reciclar de placas de minicomponentes y de un amplificador de guitarra algunos materiales, aunque al llegar a la clase me percaté que se me habían quedado en la casa. Dado que la mitad del curso no tenía materiales y la otra mitad estaba esperando que abrieran la tienda para comprar, aproveché de devolverme a la casa a buscar mis cosas, aunque para cuando volví, las profesoras recurrieron al plan B que consistió en **NO SÉ NO ME ACUERDO**
 
+Por otro lado, dediqué el finde a buscar componentes que podría reciclar para el sistema del drawdio, por lo que tuve que ir a la bodega a buscar placas de circuito de equipos que desarmé en algún momento del pasado y aunque no encontré mucho, me sirvió para masterizar el arte de des-soldar componentes de las placas.
+
+<img src="registrofotografico/reciclables1.JPG" width="400">
+
+**[foto placas circuitos]**
+
 ---
 ### Jueves 26 de Marzo
--- (falté)
+
+-- (falté) PERO logré construir el drawdio, aunque me hacía falta una batería de 9v, pero de manera **muy** casera pude solucionarlo, conectándolo a la fuente de poder del cargador de un teléfono viejo, que justo entregaba 9v.
+
+<img src="registrofotografico/protodeuce.JPG" width="400">
 
 ---
 ### Lunes 30 de Marzo
 
 Para la sesión de hoy llegamos para proponer ideas de cómo integrar el sistema del drawdio en el juguete, y aunque nuestro circuito estaba funcional, sonaba muy despacio, por lo que a recomendación de la profe, tuve que soldar los cables a la bocina y también reemplazar uno de los capacitores del circuito, lo que me dió la oportunidad de visitar por primera vez el lab de interacción digital!!! muy bueno.
-**[foto lid] [foto bocina soldada]**
+
+<img src="registrofotografico/fotolid.jpg" width="400"> <img src="registrofotografico/fotobocinasoldada.jpg" width="400">
+
 La segunda mitad de la clase nos dedicamos a soltar ideas sobre cómo integrar el drawdio al juguete, pasando de que sonara al mover el auto, a transformar el auto-frutilla en una especie de juguete mensajero, haciendo que al momento de ingresar un mensaje en el juguete, gatille el sistema haciendo que se prendan luces led (dando a entender que hay un mensaje no leído), parecido a como funcionaban los buzones de voz de los teléfonos fijos, pero con un toque análogo al ser el mensaje escrito a mano.
-**[foto bocetos juguetedrawdio] [foto protoboardcondrawdio]**
+
+
+**[foto bocetos juguetedrawdio]**
