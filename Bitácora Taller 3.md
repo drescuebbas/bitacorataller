@@ -25,17 +25,22 @@ También nos presentaron "drawdio", adelantándonos un poco acerca de cómo pros
 
 ---
 ### Jueves 19 de Marzo
-había que traer materiales para un segundo prototipo del juguete pero al final no los usamos
-bocetear mejoras del juguete
-la profe sumó al fernando al grupo dado que la clase pasada llegó atrasado a la actividad de la entrevista
+Nos encargaron traer materiales para un segundo prototipo del juguete, al final no los usamos pero tuvimos el tiempo para poder bocetear mejoras para el juguete. También se nos sumó Fernando al grupo por lo que tuvimos la oportunidad de compartir aún más ideas gracias a que nos habló de su juguete de la infancia.
 **[foto bocetos juguete]**
-al final nos encargaron los materiales para la clase siguente, sumado a los componentes necesarios para la construcción del drawdio, mediante una protoboard.
+Ya finalizando la clase nos encargaron los materiales para la clase siguente, sumado a los componentes necesarios para la construcción del drawdio, mediante una protoboard.
 
 ---
 ### Lunes 23 de Marzo
-Desastroso, no logramos coordinarnos como curso durante el finde para comprar los materiales por lo que atrasamos toda la clase, por otro lado, pude reciclar de placas de minicomponentes y de un amplificador de guitarra algunos materiales, aunque al llegar a la clase me percaté que se me habían quedado en la casa. Dado que la mitad del curso no tenía materiales y la otra mitad estaba esperando que abrieran la tienda para comprar, aproveché de devolverme a la casa a buscar mis cosas, aunque para cuando volví, las profesoras recurrieron al plan B que consistió en ...?
-
+Desastroso, no logramos coordinarnos como curso durante el finde para comprar los materiales por lo que atrasamos toda la clase, por otro lado, pude reciclar de placas de minicomponentes y de un amplificador de guitarra algunos materiales, aunque al llegar a la clase me percaté que se me habían quedado en la casa. Dado que la mitad del curso no tenía materiales y la otra mitad estaba esperando que abrieran la tienda para comprar, aproveché de devolverme a la casa a buscar mis cosas, aunque para cuando volví, las profesoras recurrieron al plan B que consistió en **NO SÉ NO ME ACUERDO**
 
 ---
 ### Jueves 26 de Marzo
 -- (falté)
+
+---
+### Lunes 30 de Marzo
+
+Para la sesión de hoy llegamos para proponer ideas de cómo integrar el sistema del drawdio en el juguete, y aunque nuestro circuito estaba funcional, sonaba muy despacio, por lo que a recomendación de la profe, tuve que soldar los cables a la bocina y también reemplazar uno de los capacitores del circuito, lo que me dió la oportunidad de visitar por primera vez el lab de interacción digital!!! muy bueno.
+**[foto lid] [foto bocina soldada]**
+La segunda mitad de la clase nos dedicamos a soltar ideas sobre cómo integrar el drawdio al juguete, pasando de que sonara al mover el auto, a transformar el auto-frutilla en una especie de juguete mensajero, haciendo que al momento de ingresar un mensaje en el juguete, gatille el sistema haciendo que se prendan luces led (dando a entender que hay un mensaje no leído), parecido a como funcionaban los buzones de voz de los teléfonos fijos, pero con un toque análogo al ser el mensaje escrito a mano.
+**[foto bocetos juguetedrawdio] [foto protoboardcondrawdio]**
