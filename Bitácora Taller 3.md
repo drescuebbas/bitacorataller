@@ -130,3 +130,10 @@ En otro momento de la clase la profe sugirió a cada grupo un ejercicio distinto
 Hoy tocó que cada grupo llegara con el ejercicio realizado, y a pesar de unos contratiempos que tuvimos (olvidé el adaptador para conectar mi computador al proyector), logramos montar todo el sistema para mostrar el funcionamiento, luego mientras el resto de los grupos le mostraban sus ejercicios a las profesoras, nos dimos el tiempo para realizar la lámina y tirar unas primeras ideas del ppt para el día de la solemne.
 
 ---
+### 27 de abril
+
+Para hoy deberíamos haber ido al M100 para poder instalar todo el sistema y dejarlo a disposición de la gente que esté ahí para que dibuje con el láser en los muros del galpón, aunque no pudimos ir porque aún no teníamos confirmación del centro sobre si nos autorizaban ir o no, y también estábamos con la idea de que el sistema lo iríamos a implementar con un mini-proyector, que el jueves la profesora nos ofreció prestarnos para hoy, así que las únicas opciones eran probar el sistema hoy o mañana.
+
+Aunque para nuestra suerte, la profesora dejó su proyector en la casa (mea culpa, le recordamos muy tarde), por lo que me dió la opción de ir a buscarlo a la fac. de artes de la Finis Terrae, así que procedí a viajar por cielo mar y tierra (metro república hasta metro inés de suárez) para recuperar el tesoro y poder volver a las preciosas islas de la FaAAD.
+
+A pesar de que no pudimos ir al M100 para probar el sistema, usamos el tiempo de clase para planificar el resto de las cosas que debe tener la presentación, y planificar también el fin e implementación del proyecto del graffiti.
