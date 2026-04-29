@@ -61,3 +61,72 @@ La segunda mitad de la clase nos dedicamos a soltar ideas sobre cómo integrar e
 
 
 **[foto bocetos juguetedrawdio]**
+
+---
+---
+### 9 de abril
+
+se nos encargó para hoy ir al museo/centro que nos correspondiese que en nuestro caso fue el Centro Cultural Matucana 100 (ubicado en av. matucana 100, je) para estudiar brevemente el lugar, la gente que concurre el lugar, el tipo de interacciones que ocurren, entre otras cosas que pudiesemos analizar referidas al estudio de usuario.
+
+(notas de la salida a terreno)
+
+se entra por av matucana y se encuentra frente a la biblioteca de santiago
+
+estructuralmente se divide en distintos edificios, como el restaurant, el teatro y una galería que se usa para exposiciones de arte
+
+apenas se entra, se encuentra una caseta de guardias e información, y tiene a plena vista unos trípticos informativos donde muestran un cronograma de las actividades que se realizan durante el mes.
+también contiene una boletería donde se pueden comprar entradas para cine o teatro
+
+la sala de cine se encuentra al lado de la entrada
+
+a las afueras del centro, hay un gran mural hecho de azulejos, que te acompaña hacia la entrada
+
+justo para el día y hora que vinimos, no habían actividades, asi que la única gente que pudimos ver fueron trabajadores,,
+guardias y el resto no sé qué harán pero llevan camisetas negras que en la espalda dicen "M100"
+también entró un señor preguntando acerca de la sala de cine, donde harán una exposición de danza a las 19:00
+
+llegó un grupo medianamente grande de gente, a sacar fotos
+pareciera que fueran un curso de estudiantes en una salida a terreno
+algunos llevaban libretas en la mano, como si fueran a botecear la estructura
+
+hay gente soldando la estructura donde se instalan las luces para lo que pareciera ser un show en la explanada del centro (patio)
+
+almacened, liceos y minimarkets a los alrededores
+talleres de bicicletas
+tiendas de repuestos para autos
+
+---
+### 13 de abril
+
+hoy partimos la clase con un pequeño montaje del barrio yungay que consistía en la impresión de un mapa que cubriera todos los museos/centros que se nos encargaron, junto a imágenes (impresas aparte), trípticos y demases que hayamos rescatado del lugar.
+
+[fotomapa]
+
+respecto a nuestra salida, al momento que fuimos nos encontramos con que estaba cerrado y que recién abriría cerca de las 21:00, por lo que poco y nada pudimos rescatar respecto al encargo que teníamos.
+
+<!-- aparte del montaje, la idea era que cada grupo pudiese ............ -->
+
+
+---
+### 16 de abril
+
+Este día se puso bueno **BUENO**, nos pidieron al final de la clase pasada que descargaramos el IDE de arduino, por lo que la clase de hoy fue dedicada 100% a aprender a usar los arduinos.
+
+[fotoarduino]
+
+Una primera parte de la clase fue teórica y se dedicó a entender cómo se dispone el arduino y qué hace cada "cosito" que tiene la placa (puertos, pines).
+
+La segunda parte fue la que me tuvo saltando en una pata porque pusimos a prueba la placa junto al programa (IDE). La profe nos compartió un documento donde mostraban distintos ejercicios junto al código que debía instalarse en el arduino para que funcionase. Ya hacia el final de la clase nos encargaron hacer otros ejercicios más del mismo documento, con el fin de que logremos usar alguno como inspiración de prototipo del dispositivo a realizar, en base al estudio de usuario que hicimos anteriormente.
+
+---
+### 20 de abril
+
+De todos los ejercicios finalmente nos decidimos por uno que usaba una fotorresistencia que al momento de la ausencia de luz, se encendiera un LED, nos decidimos por ese debido a que una de las cosas que nos llamó la atención del lugar es la poca iluminación que hay en ciertas ubicaciones (como cerca de la huerta por ejemplo).
+En otro momento de la clase la profe sugirió a cada grupo un ejercicio distinto, que quizás nos podría servir de inspiración para el proyecto "final", por lo que a nosotros nos recomendó el proyecto L.A.S.E.R. TAG del colectivo Graffiti Research Lab.
+
+---
+### 23 de abril
+
+Hoy tocó que cada grupo llegara con el ejercicio realizado, y a pesar de unos contratiempos que tuvimos (olvidé el adaptador para conectar mi computador al proyector), logramos montar todo el sistema para mostrar el funcionamiento, luego mientras el resto de los grupos le mostraban sus ejercicios a las profesoras, nos dimos el tiempo para realizar la lámina y tirar unas primeras ideas del ppt para el día de la solemne.
+
+---
