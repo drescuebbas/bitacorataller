@@ -137,3 +137,55 @@ Para hoy deberíamos haber ido al M100 para poder instalar todo el sistema y dej
 Aunque para nuestra suerte, la profesora dejó su proyector en la casa (mea culpa, le recordamos muy tarde), por lo que me dió la opción de ir a buscarlo a la fac. de artes de la Finis Terrae, así que procedí a viajar por cielo mar y tierra (metro república hasta metro inés de suárez) para recuperar el tesoro y poder volver a las preciosas islas de la FaAAD.
 
 A pesar de que no pudimos ir al M100 para probar el sistema, usamos el tiempo de clase para planificar el resto de las cosas que debe tener la presentación, y planificar también el fin e implementación del proyecto del graffiti.
+
+---
+### 11 de Mayo
+Nos dieron de tarea el enroque, las profes hicieron un "swap" de grupos y sus trabajos, por lo que se nos encargó realizar una propuesta para el grupo del museo ferroviario, también fue el día que se incendió el otro edificio de la facultad, por lo que la clase terminó un poco antes.
+
+---
+### 13 de Mayo (bonus)
+Para el jueves nos encargaron realizar un estudio de los usuarios del centro cultural Matucana 100, por lo que decidimos ir a ver una función de la película "Matapanki", para posterior a función, entrevistar a quienes asistieron, también entrevistamos a unos trabajadores del lugar.
+
+---
+### 14 de Mayo
+Hicimos una presentación sobre lo que logramos rescatar del estudio de los usuarios. también nos juntamos con el otro grupo (del enroque) con el fin de compartirnos la información de los estudios, para pensar en la propuesta que podríamos hacerle la clase siguente.
+
+---
+### 18 de Mayo
+(falté) presentación enroque, profes piden que presentemos todas las clases siguentes (lámina, ppt, prototipo)
+
+---
+### 21 de Mayo
+feriado
+
+---
+### 25 de Mayo
+Considerando la propuesta hecha por el grupo del enroque, presentamos una nueva propuesta, que consistía en un control remoto (guante o caja botonera) para el láser, cosa de poder cambiar valores sin la necesidad de meter mano en el computador.
+
+También debíamos proponer un lugar (en la universidad) donde montar el sistema, decidimos usar el piso -2 del edificio de República 180, justo al lado del ascensor.
+
+---
+### 27 de Mayo
+Empecé a desarrollar el programa, un prototipo simple que era capaz de dibujar con el mouse, para intentar la implementación del potenciómetro para hacer el control remoto.
+
+---
+### 28 de Mayo
+Presentamos la caja con un potenciómetro, el cual regula el grosor de la línea.
+
+También fuimos a ver el lugar propuesto anteriormente para instalar el sistema (piso -2 República 180).
+
+Se nos encargó una actividad en clase que consistió en la implementación de arduino + processing (nos vino muy a la mano por la propuesta que teníamos). Aparte, logré hacer que el potenciómetro funcionara de manera inalámbrica, gracias a un ESP32.
+
+---
+### 29 - 30 de Mayo
+Compramos un puntero laser con la intención de desarmarlo para adaptarlo al prototipo de la lata, pero no logré desarmarlo al nivel de que entrara en la maqueta, aunque Marcela logró adaptar su puntero a la lata, junto a un espejo que reflejara de manera vertical.
+
+Seguí con el desarrollo del programa.
+
+---
+### 01 de Junio
+Dediqué toda la clase al desarrollo del programa, implementando el reconocimiento de la cámara y el tracking del laser, ya que hasta antes de la clase, el programa únicamente funcionaba con el mouse.
+
+---
+### 02- 04 de Junio
+Estos días fueron terminar de desarrollar el programa, ahora reconoce el láser de manera más óptima, y ya no dibuja líneas sólidas y rectas, sino que simula la dispersión del spray.
